@@ -44,8 +44,7 @@ As an illustration, Figure 1 below demonstrates PromptSplit applied to text-to-t
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/unified-kernel-eval.git
-   cd unified-kernel-eval
+   git clone https://github.com/MehdiLotfian/PromptSplit.git
    ```
 
 2. **Install dependencies:**
