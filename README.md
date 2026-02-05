@@ -58,7 +58,7 @@ This project provides a unified framework for evaluating image and text embeddin
 
 
 
-![Figure 1: Unified Kernel Evaluation Framework](./path_to_figure1.png)
+![Figure 1: PromptSplit Framework](./path_to_figure1.png)
 
 *Replace `./path_to_figure1.png` with the actual path to your figure image.*
 
