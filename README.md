@@ -54,13 +54,12 @@ This project provides a unified framework for evaluating image and text embeddin
 
 ---
 
-## Figure 1 (from the paper)
+## Figure 1
 
 
 
 ![Figure 1: PromptSplit Framework](./figures/qwen_gemma_nq.png)
 
-*Replace `./path_to_figure1.png` with the actual path to your figure image.*
 
 ---
 
@@ -69,9 +68,9 @@ This project provides a unified framework for evaluating image and text embeddin
 If you use this code or ideas from the paper, please cite:
 
 ```
-@article{lotfian2026unified,
-  title={Unified Kernel Evaluation of Image and Text Embeddings},
-  author={Lotfian, [Your Name] and others},
+@article{promptsplit,
+  title={PromptSplit: Revealing Prompt-Level Disagreement in Generative Models},
+  author={Mehdi Lotfian, Mohammad Jalali, Farzan Farnia},
   journal={arXiv preprint arXiv:2602.04009},
   year={2026}
 }
