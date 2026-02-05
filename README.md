@@ -3,8 +3,6 @@
 This repository provides the official implementation of **PromptSplit**, a kernel-based framework for detecting and analyzing prompt-dependent disagreements between generative AI models, as described in the accompanying paper.
 
 **[PromptSplit: Revealing Prompt-Level Disagreement in Generative Models](https://arxiv.org/abs/2602.04009)**  
-Mehdi Lotfian, Mohammad Jalali, Farzan Farnia  
-Department of Computer Science and Engineering, The Chinese University of Hong Kong  
 
 ## Overview
 
