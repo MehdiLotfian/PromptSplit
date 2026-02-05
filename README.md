@@ -58,7 +58,7 @@ This project provides a unified framework for evaluating image and text embeddin
 
 
 
-![Figure 1: PromptSplit Framework](./figure/qwen_gemma_nq.pdf)
+![Figure 1: PromptSplit Framework](./figures/qwen_gemma_nq.png)
 
 *Replace `./path_to_figure1.png` with the actual path to your figure image.*
 
